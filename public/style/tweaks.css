@@ -1,0 +1,24 @@
+body {
+	height:100%;
+	width:100%;
+	background-color: #ddd;
+}
+
+#controls { 
+	margin-top: 5em; 
+	margin-bottom: 5em;
+}
+
+div.btn-group {
+	display: inline-block; 
+	margin-bottom: 1em;
+}
+
+.btn:hover {
+	background-color: #fff;
+	border-color:#ccc;
+}
+
+.btn:active {
+	background-color: #fff;
+}
