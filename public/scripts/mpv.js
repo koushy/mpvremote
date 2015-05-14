@@ -1,4 +1,4 @@
 $('.btn').click(function(){
-    $.post('/mpv', {command: $(this).data('command') });
-    $(this).blur();
-    });
+  $.post('/mpv', {command: $(this).data('command') });
+  $(this).blur();
+  });
