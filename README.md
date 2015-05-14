@@ -2,7 +2,7 @@
 
 controls [mpv]. Welcoming feedback, improvements
 
-have mpv listen on a socket via the configuration file at ~/.config/mpv/conf :
+have mpv listen on a socket via the configuration file at ~/.config/mpv/config :
 > input-unix-socket=/tmp/mpvsocket
 
 grab dependencies with
