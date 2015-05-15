@@ -1,6 +1,7 @@
 require 'socket'
 
 class MpvRemote < Sinatra::Base
+
   get '/' do
     erb :index
   end
